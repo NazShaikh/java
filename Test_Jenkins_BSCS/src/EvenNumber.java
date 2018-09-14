@@ -15,7 +15,7 @@ public class EvenNumber {
 System.out.println();
 	
 		// TODO Auto-generated method stub
-		hellloo!!!!
+		hellloo!!!
 			System.out.println("");
 
 	}
