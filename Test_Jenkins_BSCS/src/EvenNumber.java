@@ -11,7 +11,7 @@ public class EvenNumber {
 			System.out.println(a+" is an Even number");
 		else
 			System.out.println(a+" is a Odd number");
-		
+		system.out.println("hello");
 		
 		// TODO Auto-generated method stub
 
