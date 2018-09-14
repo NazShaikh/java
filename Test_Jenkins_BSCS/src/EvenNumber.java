@@ -12,7 +12,7 @@ public class EvenNumber {
 		else
 			System.out.println(a+" is a Odd number");
 		System.out.println();
-	
+System.out.println();
 		
 		// TODO Auto-generated method stub
 
